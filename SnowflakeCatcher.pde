@@ -9,7 +9,6 @@ void setup()
   {
     snow[i] = new Snowflake();
   }
-  frameRate(15);
 }
 
 void draw()
